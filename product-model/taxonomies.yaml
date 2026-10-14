@@ -1,0 +1,10 @@
+scenarioKinds:
+  - id: primary
+    name: Primary
+    description: An established successful path.
+  - id: validation
+    name: Validation
+    description: Invalid input or a refusal of who may act.
+  - id: edge
+    name: Edge
+    description: A conflict, an existing state that changes the result, or an unavailable dependency.
